@@ -1,5 +1,7 @@
 ## DEOBFUSCATION CHALLENGES
 
-Here you'll find obfuscated files that are not malicious, but based on real malware. This repository is designed to help you practice deobfuscating malware by providing practical examples. I regularly review submitted samples on Malware Bazaar and will add new challenges.
+Welcome to this repository, where you'll find non-malicious, obfuscated files based on real malware. It's a resource designed to help security professionals and students practice analyzing and deobfuscating malware with practical examples. I regularly update the repository by reviewing samples from Malware Bazaar and other sources to provide fresh challenges. So, feel free to use this platform to enhance your skills.
+
+
 
 
