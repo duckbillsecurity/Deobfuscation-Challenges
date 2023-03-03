@@ -4,19 +4,23 @@
 
 ## Disclaimer
 
-This script is for educational and demonstration purposes only. The author does not endorse or condone the use of this script for any criminal or malicious activities and it should only be used where explicitly allowed with proper permission.
-
-## Warning
-
-LINKS TO POTENTIALLY MALICIOUS SAMPLES ARE PROVIDED AS A REFERENCE ONLY. THE CHALLENGES DO NOT REQUIRE DOWNLOADING THE ORIGINAL SAMPLES. It's important to exercise caution when working with malware samples, and to use appropriate security measures to prevent any accidental infection.
+This repository is for educational and demonstration purposes only. The author does not endorse or condone the use of any material from this repository to be used in any criminal or malicious activities and it should only be used where explicitly allowed with proper permission.
 
 ## Description:
 
-This repository includes obfuscated files that are not harmful, but are modeled after actual malware. Its purpose is to provide a useful tool for security professionals and students to practice analyzing and deobfuscating malware using practical examples.
+This repository contains obfuscated files that are designed to resemble actual malware. While they are not intended to be malicious, they serve as practical examples for security professionals and students to practice analyzing and deobfuscating potentially harmful code. However, please note that downloading any files from this repository carries inherent risk, and users should exercise caution and employ appropriate security measures.
 
 Challenges will have a solution provided shortly after initial release.
 
-Please note that while all samples directly available within the challenges are benign, they will be archived with the password "infected," in line with industry standard. Additionally, this repository includes references to the original malware, which are outside the scope of this repository and not considered benign or non-malicious.
+## Instructions:
+
+Challenge samples are archived with the password: infected
+
+## Referenced Samples:
+
+Links to potentially malicious samples are provided as a reference only. The challenges DO NOT require downloading the original samples. It's important to exercise caution when working with any malware samples, and to use appropriate security measures to prevent any accidental infection.
+
+
 
 
 
