@@ -1,6 +1,6 @@
 ## DEOBFUSCATION CHALLENGES
 
-![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/image1.png)
+![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/image.png)
 
 ## Disclaimer
 
