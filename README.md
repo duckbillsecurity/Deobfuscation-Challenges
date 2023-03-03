@@ -1,6 +1,6 @@
 ## DEOBFUSCATION CHALLENGES
 
-![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/image.png)
+![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/image1.png)
 
 This repository includes obfuscated files that are not harmful, but are modeled after actual malware. Its purpose is to provide a useful tool for security professionals and students to practice analyzing and deobfuscating malware using practical examples.
 
