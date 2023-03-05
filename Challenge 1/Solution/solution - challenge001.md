@@ -2,7 +2,7 @@
 
 1. To make analysis slightly safer from any accidental execution first we rename the file from challenge001.cmd to challenge001.cmd.txt
 
-2. Opening in a text editor, we notice a large grouping a ASCII characters as well as the Windows system command certutil, which supports that these characters are most likely encoded in Base64.
+2. Opening in a text editor, we notice a large block of ASCII characters as well as the Windows system command certutil, which supports that these characters are most likely encoded in Base64.
 While certutil is used to manage certificates, the tool can be abused by attackers in quite a few ways including downloading files, and also encoding and decoding files in Base64. This technique to use native system tools is referred to as Living off the Land. See reference section for more details.
 
 3. The initial cmd file utilises windows environment variables, as well as setting a new variable to an encoded Base64 file. I've added a few additional windows environment variables which were not included in the original sample such as the %RANDOM% environment variable when creating the file.
