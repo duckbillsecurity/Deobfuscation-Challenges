@@ -4,7 +4,7 @@
 
 2. Opening in a text editor, we notice a large block of ASCII characters as well as the Windows system command certutil, which supports that these characters are most likely encoded in Base64.
 
-While certutil is used to manage certificates, the tool can be abused by attackers in quite a few ways including downloading files, and also encoding and decoding files in Base64[^1]. This technique to use native system tools is referred to as Living off the Land. See reference section for more details.
+While certutil is used to manage certificates, the tool can be abused by attackers in quite a few ways including downloading files, and also encoding and decoding files in Base64[1]. This technique to use native system tools is referred to as Living off the Land. See reference section for more details.
 
 3. The initial cmd file utilises windows environment variables, as well as setting a new variable to an encoded Base64 file. I've added a few additional windows environment variables which were not included in the original sample such as the %RANDOM% environment variable when creating the file.
 
@@ -38,7 +38,7 @@ The script opens the url, https://attackndefend.com
 
 ### References
 
-[^1]. ertutil | LOLBAS (lolbas-project.github.io) : https://lolbas-project.github.io/lolbas/Binaries/Certutil/
+[1]. certutil | LOLBAS (lolbas-project.github.io) : https://lolbas-project.github.io/lolbas/Binaries/Certutil/
 
 2. Obfuscated Files or Information, Technique T1027 - Enterprise | MITRE ATT&CK® : https://attack.mitre.org/techniques/T1027/
 
