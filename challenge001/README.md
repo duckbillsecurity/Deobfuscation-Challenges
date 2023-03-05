@@ -1,7 +1,7 @@
-Instructions:
+## Instructions:
 Challenge samples are archived with the password: infected
 
-Referenced Samples:
+## Referenced Samples:
 Links to potentially malicious samples are provided as a reference only. 
 
 **The challenges DO NOT require downloading the original samples.** 
