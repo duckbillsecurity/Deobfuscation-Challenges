@@ -1,6 +1,6 @@
 ### Solution - CHALLENGE001
 
-1. To make analysis slightly safer from any accidental execution first we rename the file from challenge001.cmd to challenge001.cmd.txt
+1. To make analysis slightly safer from accidental execution first we rename the file from challenge001.cmd to challenge001.cmd.txt
 
 2. Opening in a text editor, we notice a large block of ASCII characters as well as the Windows system command **certutil.exe**, which supports that these characters are most likely encoded in Base64.
 
