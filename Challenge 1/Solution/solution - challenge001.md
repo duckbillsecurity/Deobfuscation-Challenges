@@ -1,4 +1,4 @@
-## SOLUTION001
+### SOLUTION - CHALLENGE001
 
 1. To make analysis slightly safer from any accidental execution first we rename the file from challenge001.cmd to challenge001.cmd.txt
 
@@ -14,8 +14,6 @@ While certutil is used to manage certificates, the tool can be abused by attacke
 Copy and paste the Base64 to Base64* window, then select Decode Base64. 
 
 Select download which saves the file to text.txt
-
-
 
 6. Reviewing text:txt, the file is JavaScript referenced by the original cmd file:
 
@@ -34,3 +32,12 @@ The second type of obfuscation is called variable substitution, where commands o
 7. Script execution
 
 The script opens the url, https://attackndefend.com
+
+### References
+
+1. certutil | LOLBAS (lolbas-project.github.io) : https://lolbas-project.github.io/lolbas/Binaries/Certutil/
+
+2. Obfuscated Files or Information, Technique T1027 - Enterprise | MITRE ATT&CK® : https://attack.mitre.org/techniques/T1027/
+
+3. Base64 to File | Base64 Decode | Base64 Converter | Base64 : https://base64.guru/converter/decode
+
