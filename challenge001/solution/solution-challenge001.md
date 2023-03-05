@@ -42,11 +42,13 @@ The second type of obfuscation is called variable substitution, where commands o
 
 The script opens the url, https://attackndefend.com
 
+#### F00TN0TES
 
+[^1]: https://redcanary.com/threat-detection-report/techniques/obfuscated-files-information/
 
-[^1]: certutil | LOLBAS (lolbas-project.github.io) : https://lolbas-project.github.io/lolbas/Binaries/Certutil/
+[^2]: certutil | LOLBAS (lolbas-project.github.io) : https://lolbas-project.github.io/lolbas/Binaries/Certutil/
 
-[^2]: Obfuscated Files or Information, Technique T1027 - Enterprise | MITRE ATT&CK® : https://attack.mitre.org/techniques/T1027/
+[^3]: Obfuscated Files or Information, Technique T1027 - Enterprise | MITRE ATT&CK® : https://attack.mitre.org/techniques/T1027/
 
-[^3]: Base64 to File | Base64 Decode | Base64 Converter | Base64 : https://base64.guru/converter/decode
+[^4]: Base64 to File | Base64 Decode | Base64 Converter | Base64 : https://base64.guru/converter/decode
 
