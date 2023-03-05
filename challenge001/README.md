@@ -1,9 +1,11 @@
 ## Instructions:
+
 Challenge samples are archived with the password: infected
 
 It's important to exercise caution when working with any malware samples, and to use appropriate security measures to prevent any accidental infection.
 
-## Referenced Samples:
+## Original Sample:
+
 Links to potentially malicious samples are provided as a reference only. 
 
 **The challenges DO NOT require downloading the original samples.** 
