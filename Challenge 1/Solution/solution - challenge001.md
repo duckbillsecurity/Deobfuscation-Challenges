@@ -1,4 +1,4 @@
-### SOLUTION - CHALLENGE001
+### Solution - CHALLENGE001
 
 1. To make analysis slightly safer from any accidental execution first we rename the file from challenge001.cmd to challenge001.cmd.txt
 
