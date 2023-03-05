@@ -16,7 +16,7 @@ Copy and paste the Base64 to Base64* window, then select Decode Base64.
 
 Select download which saves the file to text.txt
 
-![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/tree/main/Challenge%201/Solution/image.png)
+![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge001/solution/image1.png)
 
 6. Reviewing text:txt, the file is JavaScript referenced by the original cmd file:
 
