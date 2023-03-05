@@ -10,7 +10,7 @@ This repository is for educational and demonstration purposes only. The author d
 
 This repository contains obfuscated files that are designed to resemble actual malware. While they are not intended to be malicious, they serve as practical examples for security professionals and students to practice analyzing and deobfuscating potentially harmful code. 
 
-However, please note that downloading any files from this repository carries inherent risk, and users should exercise caution and employ appropriate security measures.
+Please note that downloading any files from this repository carries inherent risk, and users should exercise caution and employ appropriate security measures.
 
 Challenges will have a solution provided shortly after initial release.
 
