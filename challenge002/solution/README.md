@@ -1,11 +1,15 @@
 
 ### CHALLENGE001 - Solution 1 - CyberChef
 
-1. Open the VBScript file challenge002.vbs in CyberChef
+1. Let's get started 
+
+Open the VBScript file challenge002.vbs in CyberChef
 
 ![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge002/solution/images/C2-S1-1.png)
 
-2. Filter out junk code (comments) from the file using the Filter operation. Use the Regex pattern ^' and select the Invert condition.
+2. Junk code 
+
+Filter out junk code (comments) from the file using the Filter operation. Use the Regex pattern ^' and select the Invert condition.
 
 ![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge002/solution/images/C2-S1-2.png)
 
@@ -29,7 +33,9 @@ The value of the variable HAMMER is:
 226578652e636c616320737365636f72502d74726174532220646e616d6d6f432d206578652e6c6c6568737265776f70.
 ```
 
-4. Convert from Hex to ASCII and reverse the string
+4. Deobfuscation 
+
+Convert from Hex to ASCII and reverse the string
 
 Copy the variable HAMMER to a new input tab, and apply the "From Hex" and "Reverse" operations.
 
