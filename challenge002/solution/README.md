@@ -9,7 +9,7 @@
 
 ![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge002/solution/images/C2-S1-2.png)
 
-3. Annoying variables: Search and Replace
+3. Annoying variables
 
 Review the code and locate the object Loki.run. The command executes two functions - ReverseAndConvert and HexToAscii - on the value assigned to the variable: 
 ```
