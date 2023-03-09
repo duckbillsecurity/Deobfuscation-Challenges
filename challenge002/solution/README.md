@@ -9,28 +9,25 @@
 
 ![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge002/solution/images/C2-S1-2.png)
 
-3. Reviewing the code, we see Loki.run, where Loki is an object referencing Wscript. The command executes two functions together
-ReverseAndConvert and HexToAscii on the value assigned to variable H76896O9832443280482O38423482lO4382482O4543543535345. 
+3. Annoying variables: Search and replace
 
-To make the variable easier to understand, as there are purposely long similar names used to annoy analysts, we use the Find / Replace operation in CyberChef 
-to improve readability.
-
+Review the code and locate the object Loki.run. The command executes two functions - ReverseAndConvert and HexToAscii - on the value assigned to the variable 
 ```
-Find: H76896O9832443280482O38423482lO4382482O4543543535345
-Replace: HAMMER
+H76896O9832443280482O38423482lO4382482O4543543535345. 
 ```
 
-![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge002/solution/images/C2-S1-3.png)
-
-The value of the variable HAMMER is: 226578652e636c616320737365636f72502d74726174532220646e616d6d6f432d206578652e6c6c6568737265776f70
-
-Review the code and locate the object Loki.run. The command executes two functions - ReverseAndConvert and HexToAscii - on the value assigned to the variable H76896O9832443280482O38423482lO4382482O4543543535345. 
 To make the variable more readable, we can use the Find/Replace operation in CyberChef.
 
+```
 Find: H76896O9832443280482O38423482lO4382482O4543543535345
 Replace: HAMMER
+```
 
-It is now easier to locate the value of the new variable: 226578652e636c616320737365636f72502d74726174532220646e616d6d6f432d206578652e6c6c6568737265776f70.
+The value of the variable HAMMER is: 
+
+```
+226578652e636c616320737365636f72502d74726174532220646e616d6d6f432d206578652e6c6c6568737265776f70.
+```
 
 4. Convert from Hex to ASCII and reverse the strings
 
