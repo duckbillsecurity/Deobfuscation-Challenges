@@ -30,6 +30,7 @@ Replace: HAMMER
 It is now easier to locate the value of the new variable: 226578652e636c616320737365636f72502d74726174532220646e616d6d6f432d206578652e6c6c6568737265776f70.
 
 4. Convert from Hex to ASCII and reverse the strings
+
 Copy the variable HAMMER to a new input tab, and apply the "From Hex" and "Reverse" operations.
 
 The obfuscated VBScript executes a PowerShell command.
