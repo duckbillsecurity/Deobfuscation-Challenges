@@ -43,7 +43,7 @@ Copy the variable HAMMER to a new input tab, and apply the "From Hex" and "Rever
 The obfuscated VBScript executes a PowerShell command.
 
 
-### References or additional resources:
+#### References or additional resources:
 
 Deobfuscation of VBScript-based Malware: https://dspace.cvut.cz/bitstream/handle/10467/94915/F8-BP-2021-Havranek-Matej-thesis.pdf?sequence=-1&isAllowed=y
 
