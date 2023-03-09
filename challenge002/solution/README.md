@@ -1,5 +1,5 @@
 
-### CHALLENGE001 - Solution 1 - CyberChef
+## CHALLENGE002 - Solution 1 - CyberChef
 
 1. Let's get started 
 
@@ -43,7 +43,7 @@ The obfuscated VBScript executes a PowerShell command.
 
 ![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge002/solution/images/C2-S1-4.png)
 
-## COMING NEXT - SOLUTION 2 - FlameVM using Python and code execution
+## COMING NEXT  - CHALLENGE002 - Solution 2 - FlameVM using Python and code execution
 
 #### References or additional resources:
 
