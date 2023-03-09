@@ -20,7 +20,7 @@ Copy and paste the Base64 to Base64* window, then select Decode Base64.
 
 Select download which saves the file to text.txt
 
-![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge001/solution/image1.png)
+![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge001/solution/images/image1.png)
 
 6. Reviewing text.txt, the file is JavaScript referenced by the original cmd file:
 
@@ -42,7 +42,7 @@ The second type of obfuscation is called variable string substitution[^3], where
 
 The script opens the url, https://attackndefend.com
 
-![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge001/solution/image2.png)
+![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge001/solution/images/image2.png)
 
 #### F00TN0TES
 
