@@ -1,4 +1,7 @@
-## SOLUTION 1 - CyberChef 
+
+### Solution - CHALLENGE001
+
+#### Solution 1 - CyberChef 
 
 1. Open the VBScript file challenge002.vbs in CyberChef
 
