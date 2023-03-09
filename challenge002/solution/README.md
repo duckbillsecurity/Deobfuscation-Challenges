@@ -11,7 +11,7 @@
 
 3. Annoying variables: Search and Replace
 
-Review the code and locate the object Loki.run. The command executes two functions - ReverseAndConvert and HexToAscii - on the value assigned to the variable 
+Review the code and locate the object Loki.run. The command executes two functions - ReverseAndConvert and HexToAscii - on the value assigned to the variable: 
 ```
 H76896O9832443280482O38423482lO4382482O4543543535345. 
 ```
