@@ -1,7 +1,5 @@
 
-### Solution - CHALLENGE001
-
-#### Solution 1 - CyberChef 
+### CHALLENGE001 - Solution 1 - CyberChef
 
 1. Open the VBScript file challenge002.vbs in CyberChef
 
@@ -17,8 +15,10 @@ ReverseAndConvert and HexToAscii on the value assigned to variable H76896O983244
 To make the variable easier to understand, as there are purposely long similar names used to annoy analysts, we use the Find / Replace operation in CyberChef 
 to improve readability.
 
+```
 Find: H76896O9832443280482O38423482lO4382482O4543543535345
 Replace: HAMMER
+```
 
 ![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge002/solution/images/C2-S1-3.png)
 
