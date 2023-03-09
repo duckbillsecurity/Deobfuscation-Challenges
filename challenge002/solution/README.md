@@ -37,7 +37,7 @@ The value of the variable HAMMER is:
 
 Convert from Hex to ASCII and reverse the string
 
-Copy the variable HAMMER to a new input tab, and apply the "From Hex" and "Reverse" operations.
+Copy the value of the variable HAMMER to a new input tab, and apply the "From Hex" and "Reverse" operations.
 
 The obfuscated VBScript executes a PowerShell command.
 
