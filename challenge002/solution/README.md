@@ -1,5 +1,5 @@
 
-## CHALLENGE002 - Solution 1 - CyberChef
+## CHALLENGE002 - CyberChef
 
 1. Let's get started 
 
