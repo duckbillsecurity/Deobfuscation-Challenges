@@ -1,4 +1,4 @@
-## Instructions: CHALLENGE002
+## Instructions: CHALLENGE001
 
 Challenge samples are archived with the password: infected
 
