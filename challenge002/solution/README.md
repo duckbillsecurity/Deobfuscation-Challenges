@@ -43,7 +43,6 @@ The obfuscated VBScript executes a PowerShell command.
 
 ![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge002/solution/images/C2-S1-4.png)
 
-## COMING NEXT  - CHALLENGE002 - Solution 2 - FlameVM using Python and code execution
 
 #### References or additional resources:
 
