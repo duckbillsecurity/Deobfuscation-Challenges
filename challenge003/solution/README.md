@@ -17,11 +17,11 @@ Rename challenge003.htm to challenge003.htm.txt, and open file as input in Cyber
 
 4. Decode Base64 using From Base64 operation.
 
-![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge003/solution/images/C3-3.png)
+![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge003/solution/images/C3-4.png)
 
 5. Perform ASCII Shift Cipher by utilising the ROT47 operation.
 
-![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge003/solution/images/C3-3.png)
+![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge003/solution/images/C3-5.png)
 
 This will give you the original URL, which is "https://attackndefend.com".
 
