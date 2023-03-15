@@ -25,7 +25,8 @@ Rename challenge003.htm to challenge003.htm.txt, and open file as input in Cyber
 
 This will give you the original URL, which is "https://attackndefend.com".
 
-### References:
-https://www.dcode.fr/ascii-shift-cipher
-https://www.base64encode.org/
+#### References:
+
+- ascii-shift-cipher: https://www.dcode.fr/ascii-shift-cipher
+- base64encode: https://www.base64encode.org/
 
