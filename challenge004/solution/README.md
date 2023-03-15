@@ -14,5 +14,5 @@ Rename challenge004.htm to challenge004.htm.txt, and open file as input in Cyber
 
 ![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge004/solution/images/C4-3.png)
 
-Within the credential harvesting script find the URL: https://badactor.local/result.php
+Within the credential harvesting script find the URL: hxxps://badactor.local/result[.]php
 
