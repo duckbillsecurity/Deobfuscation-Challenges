@@ -5,7 +5,7 @@
 
 Open the VBScript file challenge002.vbs in CyberChef
 
-![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge002/solution/images/C2-S1-1.png)
+![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge003/solution/images/C3-S1-1.png)
 
 2. Copy the code into the input field of CyberChef.
 
