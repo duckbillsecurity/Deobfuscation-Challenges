@@ -12,7 +12,7 @@ Rename challenge004.htm to challenge004.htm.txt, and open file as input in Cyber
 
 3. Decode using URL Decode operation
 
-![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge003/solution/images/C4-3.png)
+![alt text](https://github.com/ATTACKnDEFEND/Deobfuscation-Challenges/blob/main/challenge004/solution/images/C4-3.png)
 
 Within the credential harvesting script find the URL: https://badactor.local/result.php
 
